@@ -1,4 +1,4 @@
-# Proposing Changes to Go
+ Proposing Changes to Go
 
 ## Introduction
 
